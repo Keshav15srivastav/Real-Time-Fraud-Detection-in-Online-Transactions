@@ -1,2 +1,3 @@
 # Real-Time-Fraud-Detection-in-Online-Transactions
-The designed algorithm has a learning  ability so that it can detect new fraud variations as they occur (real-time) and thus terminate  the transaction should it be considered a fraudulent one. 
+
+This project aims to address the limitations of existing online fraud detection systems by developing and implementing an adaptive, hybrid, and real-time online fraud detection algorithm. This algorithm will leverage Support Vector Machines (SVM) as the primary machine learning technique, complemented by hybrid approaches for enhanced fraud detection capabilities. The algorithm will possess learning capabilities to identify new real-time fraud variations and terminate fraudulent transactions. By restoring and instilling confidence in online transactions, the proposed algorithm aims to mitigate the impact of fraudulent activities on online users and businesses.
